@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.8098cf40.css",
-    "main.js": "/Portfolio-React/static/js/main.b2a9066a.js",
+    "main.css": "/Portfolio-React/static/css/main.e41d2bed.css",
+    "main.js": "/Portfolio-React/static/js/main.013936fe.js",
     "static/media/has-website-react.png": "/Portfolio-React/static/media/has-website-react.a0d66cf8ef56cc7806dc.png",
     "static/media/call-video.mp4": "/Portfolio-React/static/media/call-video.1cfc00831c2b51594883.mp4",
     "static/media/sky-bg.jpg": "/Portfolio-React/static/media/sky-bg.74d50d7bf3da31cdb984.jpg",
     "static/media/has-website.png": "/Portfolio-React/static/media/has-website.eabc836bfee652f3369f.png",
     "static/media/contact-banner.png": "/Portfolio-React/static/media/contact-banner.104fca9fe6a24d1672e8.png",
+    "static/media/react-signup.png": "/Portfolio-React/static/media/react-signup.19e6c4bb8e0122c1c192.png",
     "static/media/workflow.gif": "/Portfolio-React/static/media/workflow.dc20f6b956cd39ac1c74.gif",
     "static/media/process.gif": "/Portfolio-React/static/media/process.c133907304fb8c4a2d9f.gif",
     "static/media/web-developement.gif": "/Portfolio-React/static/media/web-developement.37cb17fcbbeb594aee2d.gif",
     "static/media/banner-img.jpg": "/Portfolio-React/static/media/banner-img.c8c075344a478cfe8520.jpg",
+    "static/media/react-dashboard.png": "/Portfolio-React/static/media/react-dashboard.57cb2235fa103b8f2f8c.png",
     "static/media/project-mnmt.gif": "/Portfolio-React/static/media/project-mnmt.b7dd16c626d6c38a5185.gif",
     "static/media/jay.jfif": "/Portfolio-React/static/media/jay.f3044ba26d4f0d7cdec2.jfif",
     "static/media/user-req.gif": "/Portfolio-React/static/media/user-req.cd4e392ada978dfceca0.gif",
@@ -22,11 +24,12 @@
     "static/media/logo.jpg": "/Portfolio-React/static/media/logo.8df63a4ccf656ca40c1a.jpg",
     "static/media/pujan.jpg": "/Portfolio-React/static/media/pujan.6d12c4eb6c20eb15467a.jpg",
     "static/media/cross-browser.gif": "/Portfolio-React/static/media/cross-browser.591d706f9fe2ef20cba2.gif",
-    "static/media/Prakash_Parmar_Resume.pdf": "/Portfolio-React/static/media/Prakash_Parmar_Resume.4ee2536c76e80d6b8526.pdf",
+    "static/media/Praksh-Parmar-ReactDeveloper-2YearExp_LatestCV.pdf": "/Portfolio-React/static/media/Praksh-Parmar-ReactDeveloper-2YearExp_LatestCV.b4401b4564f3b48d514c.pdf",
     "static/media/aakash.jpg": "/Portfolio-React/static/media/aakash.762d8b4618258f20aab9.jpg",
     "static/media/raviraj.jfif": "/Portfolio-React/static/media/raviraj.7c96488403566461ac1e.jfif",
     "static/media/sass.svg": "/Portfolio-React/static/media/sass.8d859452ab50efc180b01a7eb0ed3776.svg",
     "static/media/jquery.svg": "/Portfolio-React/static/media/jquery.ed58d7a885b967cf2d035bd5efb59fe1.svg",
+    "static/media/megh_makwana.jfif": "/Portfolio-React/static/media/megh_makwana.aefeb6a7cf05c67ad575.jfif",
     "static/media/react.svg": "/Portfolio-React/static/media/react.8f0f41c9fa5967933712e0b1741d7ac2.svg",
     "static/media/node.svg": "/Portfolio-React/static/media/node.31c93dbfab5d19d85885ee0934708edd.svg",
     "static/media/html5.svg": "/Portfolio-React/static/media/html5.c6d3d4115199ead73187c70a729aa92e.svg",
@@ -48,11 +51,11 @@
     "index.html": "/Portfolio-React/index.html",
     "static/media/git.svg": "/Portfolio-React/static/media/git.fd4ff25d1bab9d4909db4a2f70c8ffa2.svg",
     "static/media/phone.svg": "/Portfolio-React/static/media/phone.04ae4af56da49c6ad94b5c7e5640bd3a.svg",
-    "main.8098cf40.css.map": "/Portfolio-React/static/css/main.8098cf40.css.map",
-    "main.b2a9066a.js.map": "/Portfolio-React/static/js/main.b2a9066a.js.map"
+    "main.e41d2bed.css.map": "/Portfolio-React/static/css/main.e41d2bed.css.map",
+    "main.013936fe.js.map": "/Portfolio-React/static/js/main.013936fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.8098cf40.css",
-    "static/js/main.b2a9066a.js"
+    "static/css/main.e41d2bed.css",
+    "static/js/main.013936fe.js"
   ]
 }
